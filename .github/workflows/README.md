@@ -1,4 +1,4 @@
-# Face Recognition with OpenCV: Haar Cascade
+# Face Recognition with OpenCV
 
 # packages needed
   1. opencv
